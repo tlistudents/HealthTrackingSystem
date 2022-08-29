@@ -1,0 +1,11 @@
+IIC.c:18:6:delay_us	24	static
+IIC.c:28:6:IIC_Init	32	static
+IIC.c:46:6:SDA_IN	32	static
+IIC.c:58:6:SDA_OUT	32	static
+IIC.c:70:6:IIC_Start	8	static
+IIC.c:83:6:IIC_Stop	8	static
+IIC.c:96:10:IIC_Wait_Ack	16	static
+IIC.c:125:6:IIC_Ack	8	static
+IIC.c:138:6:IIC_NAck	8	static
+IIC.c:150:6:IIC_Send_Byte	24	static
+IIC.c:182:10:IIC_Read_Byte	24	static

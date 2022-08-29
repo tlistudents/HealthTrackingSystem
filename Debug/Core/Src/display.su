@@ -1,0 +1,15 @@
+display.c:42:6:MENU_init_	24	static
+display.c:180:6:MENU_init	16	static
+display.c:219:6:MENU_main	24	static
+display.c:360:6:MENU_SETTING	24	static
+display.c:393:6:MENU_TEMP	24	static
+display.c:402:6:MENU_BLOOD	24	static
+display.c:412:6:MENU_HEART	24	static
+display.c:422:6:MENU_LAT	24	static
+display.c:433:6:MENU_LON	24	static
+display.c:443:6:MENU_FALL	24	static
+display.c:451:6:MENU_BLUET	24	static
+display.c:467:6:MENU_GPS	24	static
+display.c:476:6:Refresh	16	static
+display.c:489:15:MENU_SELECTION	24	static
+display.c:604:15:SETTING_SELECTION	24	static

@@ -1,0 +1,5 @@
+gyro.c:32:6:gyro_init	40	static
+gyro.c:112:6:gyro_read	56	static
+gyro.c:181:6:getGyroData	24	static
+gyro.c:212:6:getFALL	4	static
+gyro.c:219:6:calibrate	96	static

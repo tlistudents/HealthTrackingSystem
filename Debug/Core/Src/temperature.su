@@ -1,0 +1,5 @@
+temperature.c:23:6:temper_init	32	static
+temperature.c:30:6:temper_read	32	static
+temperature.c:48:6:getTemperData	16	static
+temperature.c:52:7:getTemperC	4	static
+temperature.c:55:7:getTemperF	4	static

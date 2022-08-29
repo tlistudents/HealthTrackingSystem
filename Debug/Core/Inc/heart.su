@@ -1,0 +1,7 @@
+heart.c:46:6:heart_init	40	static
+heart.c:121:6:heart_read	56	static
+heart.c:163:6:detectPulse	40	static
+heart.c:237:6:balanceLEDs	40	static
+heart.c:256:6:getHeartData	64	static
+heart.c:337:7:getBPM	4	static
+heart.c:341:7:getOXY	4	static

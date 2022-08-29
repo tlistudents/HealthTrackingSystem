@@ -1,0 +1,10 @@
+control.c:52:4:Get_Key_value	16	static
+control.c:75:6:Display_On_Off	16	static
+control.c:102:6:Get_Temperature_data	8	static
+control.c:122:7:TemperF	24	static
+control.c:136:6:HeartInt	40	static
+control.c:388:6:Get_Heart_data	40	static
+control.c:689:6:Get_GyroAccel_data	8	static
+control.c:706:6:Get_GPS_data	8	static
+control.c:732:6:BlueStatus	8	static
+control.c:740:6:SendBluetooth	8	static

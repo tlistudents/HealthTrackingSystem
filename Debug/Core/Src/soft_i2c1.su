@@ -1,0 +1,11 @@
+soft_i2c1.c:9:6:IIC_Delay	24	static
+soft_i2c1.c:16:6:IIC_SDA_Out	32	static
+soft_i2c1.c:26:6:IIC_SDA_In	32	static
+soft_i2c1.c:36:6:IIC_Start	8	static
+soft_i2c1.c:47:6:IIC_Stop	8	static
+soft_i2c1.c:58:6:IIC_Ack	16	static
+soft_i2c1.c:71:5:IIC_WaitAck	16	static
+soft_i2c1.c:92:6:IIC_WriteBit	24	static
+soft_i2c1.c:115:9:IIC_ReadBit	16	static
+soft_i2c1.c:133:5:IIC_WriteData1	16	static
+soft_i2c1.c:159:5:IIC_ReadData1	24	static

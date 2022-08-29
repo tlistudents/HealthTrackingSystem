@@ -1,0 +1,4 @@
+lcd_chinese.c:17:6:LCD_ShowChinese	40	static
+lcd_chinese.c:40:6:LCD_ShowChinese16x16	48	static
+lcd_chinese.c:93:6:LCD_ShowChinese24x24	48	static
+lcd_chinese.c:145:6:LCD_ShowChinese32x32	48	static
