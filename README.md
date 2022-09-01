@@ -14,3 +14,6 @@
 * GPS Chip: NEO6M
 * Bluetooth: BLUENRG-355A
 
+# Demo:
+https://user-images.githubusercontent.com/70169080/187926761-dcf64d7b-fe63-446d-ab0e-b3077ebc62a2.mp4
+
